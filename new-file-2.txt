@@ -1,1 +1,2 @@
 checking file 2
+what
