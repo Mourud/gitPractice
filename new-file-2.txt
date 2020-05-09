@@ -1,2 +1,4 @@
 checking file 2
 what
+making change 
+checking what happens
